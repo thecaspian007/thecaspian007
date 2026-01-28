@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Sumeet%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Scalable%20Software%20Solutions%20%7C%20AI%20Enthusiast%20%7C%20Mentor%20%7C%20Lifelong%20Learner&descSize=18&descAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Sumeet%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=JAVA%20Backend%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Mentor%20%7C%20Lifelong%20Learner&descSize=18&descAlignY=55" width="100%" />
 </p>
 
 <!-- Profile Views Counter -->
@@ -21,7 +21,7 @@
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten!
+## 🐍 While(Alive) { Commit.Eat();}
 
 <p align="center">
   <picture>
@@ -38,9 +38,9 @@
   <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height= "130";/>
   </animated-image>
 
-- 🔧 Scalable Software Solutions: Architecting and implementing efficient, robust AI systems.
-- 🚀 Cutting-edge Technologies: Continuously exploring and integrating new tech into projects.
-- 🤝 Mentorship & Collaboration: Supporting junior developers and working in high-performing teams.
+- 🔧 **Scalable Software Solutions**: Architecting high-scale distributed systems, cloud infra and AI powered platforms.
+- 🚀 **Deep expertise**: Designing microservices, intelligent resource allocation engines and RAG pipelines. Scaling infrastructure, managing complex integrations, designing robust billing and rate-limiting systems for enterprise scale.
+- 🤝 **Mentorship & Collaboration**: Supporting junior developers and working in high-performing teams.
 
 ---
 
