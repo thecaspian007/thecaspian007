@@ -3,7 +3,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/thecaspian007">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F724A9&center=true&vCenter=true&random=false&width=600&lines=Scalable+Software+Solutions+🚀;AI+%26+Machine+Learning+Enthusiast+🤖;Full+Stack+Developer+💻;Mentor+%26+Lifelong+Learner+📚" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F724A9&center=true&vCenter=true&multiline=false&width=600&lines=Scalable+Software+Solutions+%F0%9F%9A%80;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Mentor+%26+Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
   </a>
 </p>
 
@@ -84,7 +84,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thecaspian007&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thecaspian007&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7" alt="trophies" />
 </p>
 
 ---
