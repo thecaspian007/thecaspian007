@@ -77,12 +77,43 @@
   </a>
 </p>
 
+### � What I Do
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Building Scalable Systems</h3>
+      <p align="center">
+        <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250" alt="coding" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">My Focus Areas</h3>
+      <p>
+        🏗️ <b>System Design</b> - Microservices, Distributed Systems<br/>
+        🤖 <b>AI/ML</b> - RAG Pipelines, LLM Applications<br/>
+        ☁️ <b>Cloud Architecture</b> - AWS, GCP, Kubernetes<br/>
+        📊 <b>Data Engineering</b> - ETL, Real-time Processing<br/>
+        🔐 <b>Backend Security</b> - Auth, Rate Limiting, Encryption
+      </p>
+    </td>
+  </tr>
+</table>
+
 ---
 
-### 🏆 GitHub Trophies
+### 🎯 Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thecaspian007&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophies" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lives-India-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-blue?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Expertise-Java%20%7C%20Spring%20Boot-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Passion-Open%20Source-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Available-Mentoring-purple?style=for-the-badge" />
 </p>
 
 ---
