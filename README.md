@@ -1,10 +1,6 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32">, I'm Sumeet Singh</h1>
-
-<!-- Typing Animation -->
+<!-- Animated Header -->
 <p align="center">
-  <a href="https://github.com/thecaspian007">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F724A9&center=true&vCenter=true&multiline=false&width=600&lines=Scalable+Software+Solutions+%F0%9F%9A%80;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Mentor+%26+Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Sumeet%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Scalable%20Software%20Solutions%20%7C%20AI%20Enthusiast%20%7C%20Mentor%20%7C%20Lifelong%20Learner&descSize=18&descAlignY=55" width="100%" />
 </p>
 
 <!-- Profile Views Counter -->
@@ -27,11 +23,13 @@
 
 ## 🐍 Watch My Contributions Get Eaten!
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thecaspian007/thecaspian007/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thecaspian007/thecaspian007/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/thecaspian007/thecaspian007/output/github-snake.svg" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thecaspian007/thecaspian007/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thecaspian007/thecaspian007/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/thecaspian007/thecaspian007/output/github-snake.svg" />
+  </picture>
+</p>
 
 ---
 
@@ -84,7 +82,9 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thecaspian007&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7" alt="trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=thecaspian007&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=4" alt="trophies" />
+  </a>
 </p>
 
 ---
