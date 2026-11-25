@@ -38,17 +38,22 @@
   <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height= "130";/>
   </animated-image>
 
-- 🔧 **Scalable Software Solutions**: Architecting high-scale distributed systems, cloud infra and AI powered platforms.
-- 🚀 **Deep expertise**: Designing microservices, intelligent resource allocation engines and RAG pipelines. Scaling infrastructure, managing complex integrations, designing robust billing and rate-limiting systems for enterprise scale.
+- 🏗️ **Distributed Systems & Architecture:** Designing scalable, fault-tolerant microservices, event-driven architectures, and high-performance backend platforms.
+- ⚡ **Backend Engineering:** Building reliable services, API ecosystems, asynchronous workflows, real-time systems, and performance-critical applications.
+- 🧠 **Applied AI & Agentic Systems:** Exploring LLM-powered applications, RAG architectures, AI agents, MCP, and intelligent automation.
+- ☁️ **Cloud-Native Engineering:** Building and operating production systems using AWS, GCP, Kubernetes, and modern CI/CD practices.
+- 🔍 **Data & Performance Engineering:** Working with databases, caching, search, vector databases, streaming, and large-scale data processing.
 - 🤝 **Mentorship & Collaboration**: Supporting junior developers and working in high-performing teams.
 
 ---
 
 ### 🌱 I'm currently learning
 
-- 🐳 **Advanced DevOps Practices**: CI/CD, containerization, orchestration.
-- 🤖 **Machine Learning & AI**: Leveraging AI for real-world applications.
-- 🔗 **Blockchain Technology**: Exploring decentralized solutions and use cases.
+- 🤖 **Advanced AI Engineering:** Agentic workflows, multi-agent systems, LangGraph, MCP, and production-ready LLM applications.
+- 🧠 **LLM Systems & Optimization:** RAG evaluation, embedding strategies, retrieval optimization, context engineering, and LLM observability.
+- 🏗️ **Advanced System Design:** Distributed transactions, fault tolerance, system scalability, resilience, and performance optimization.
+- ☁️ **Cloud & Infrastructure:** Advanced Kubernetes, cloud architecture, infrastructure automation, and production reliability.
+- 🛠️ **AI-Assisted Development:** Exploring coding agents and developer tools such as Codex and Cursor to improve engineering productivity.
 
 ---
 
@@ -90,11 +95,12 @@
     <td width="50%">
       <h3 align="center">My Focus Areas</h3>
       <p>
-        🏗️ <b>System Design</b> - Microservices, Distributed Systems<br/>
-        🤖 <b>AI/ML</b> - RAG Pipelines, LLM Applications<br/>
-        ☁️ <b>Cloud Architecture</b> - AWS, GCP, Kubernetes<br/>
-        📊 <b>Data Engineering</b> - ETL, Real-time Processing<br/>
-        🔐 <b>Backend Security</b> - Auth, Rate Limiting, Encryption
+        🏗️ <b>Backend Engineering</b> - Java, Spring Boot, Python, Elixir<br/>
+        ⚡ <b>Distributed Systems</b> - Microservices, Kafka, RabbitMQ, Event-Driven Architecture<br/>
+        🗄️ <b>Data Engineering</b> - SQL, NoSQL, Redis, Elasticsearch, ClickHouse, Vector DBs<br/>
+        ☁️ <b>Cloud & DevOps</b> - AWS, GCP, Azure, Kubernetes, Docker, CI/CD<br/>
+        🧠 <b>AI Engineering</b> - LLMs, RAG, Embeddings, Bedrock, LangGraph, MCP<br/>
+        📊 <b>Production Engineering</b> - Observability, Monitoring, Logging, Performance Optimization
       </p>
     </td>
   </tr>
