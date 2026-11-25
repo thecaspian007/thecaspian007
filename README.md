@@ -14,10 +14,20 @@
   </a>
 </p>
 
+
 <p align="center">
+  <img
+    src="assets/Neon Cloud Architecture Workspace.png"
+    width="100%"
+    alt="Software Engineering, Distributed Systems, Cloud and AI Engineering"
+  />
+</p>
+
+
+<!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="200" />
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" height="200" />
-</p>
+</p> -->
 
 ---
 
@@ -34,9 +44,12 @@
 ---
 
 ### 👀 I'm interested in
-<animated-image data-catalyst style="float: right; width: 35%;">
-  <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height= "130";/>
-  </animated-image>
+<p align="center">
+  <img align="right"
+       src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"
+       width="180"
+       alt="Developer coding animation" />
+</p>
 
 - 🏗️ **Distributed Systems & Architecture:** Designing scalable, fault-tolerant microservices, event-driven architectures, and high-performance backend platforms.
 - ⚡ **Backend Engineering:** Building reliable services, API ecosystems, asynchronous workflows, real-time systems, and performance-critical applications.
@@ -89,7 +102,7 @@
     <td width="50%">
       <h3 align="center">Building Scalable Systems</h3>
       <p align="center">
-        <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250" alt="coding" />
+        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="200" />
       </p>
     </td>
     <td width="50%">
