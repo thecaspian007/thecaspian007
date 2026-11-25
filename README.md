@@ -81,7 +81,7 @@
 ### 📫 Connect With Me
 
 <p>
-  <a href="mailto:ssumeet389@gmail.com">
+  <a href="https://github.com/thecaspian007/thecaspian007/blob/main/assets/Sumeet_Singh.pdf" target="_blank">
     <img src="https://img.shields.io/badge/My CV-grey?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sumeet-singh-724839133/" target="_blank">
